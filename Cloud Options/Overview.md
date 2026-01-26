@@ -203,6 +203,8 @@ This results in a **multi-cloud + hybrid architecture**.
 
 That’s why defense systems **optimize architecture**, not providers.
 
+*Don't ask "which cloud?" — Ask "which workloads go where?"* - A
+
 <!-- ---
 
 If you want, I can next:
