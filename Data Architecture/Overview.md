@@ -116,3 +116,5 @@ Data Organization
 ---
 
 ## END OF ARCHITECTURE
+
+*Defense hybrid cloud isn't about picking clouds—it's about zoning workloads by classification, encrypting everything, and trusting nothing across all three zones.* -A
