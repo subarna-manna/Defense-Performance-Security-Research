@@ -184,3 +184,6 @@ High-level Zero Trust cycle: Default Deny → Risk Engine → Adapt/Access/Trans
 - **Compliance**: Aligns with DoD CC SRG, NIST standards.
 
 This design provides a future-proof, robust foundation for defense cloud operations.
+## END OF ARCHITECTURE
+
+*Defense hybrid cloud isn't about picking clouds—it's about zoning workloads by classification, encrypting everything, and trusting nothing across all three zones.* -A
