@@ -220,3 +220,5 @@ CRDT examples show mergeable increments without coordination.
 - **Ongoing**: CNCF projects for edge (KubeEdge), satellite integration.
 
 This comprehensive design ensures high-performance synchronization across diverse environments, from data-center RDMA to satellite-linked edge.
+
+"Imagine a cloud that moves data as fast as a flash inside the data‑center and stays rock‑solid even when it has to cross the world’s longest links." - BL
